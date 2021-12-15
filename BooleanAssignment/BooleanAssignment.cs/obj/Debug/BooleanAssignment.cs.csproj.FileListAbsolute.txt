@@ -1,0 +1,7 @@
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanAssignment\BooleanAssignment.cs\bin\Debug\BooleanAssignment.cs.exe.config
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanAssignment\BooleanAssignment.cs\bin\Debug\BooleanAssignment.cs.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanAssignment\BooleanAssignment.cs\bin\Debug\BooleanAssignment.cs.pdb
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanAssignment\BooleanAssignment.cs\obj\Debug\BooleanAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanAssignment\BooleanAssignment.cs\obj\Debug\BooleanAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanAssignment\BooleanAssignment.cs\obj\Debug\BooleanAssignment.cs.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BooleanAssignment\BooleanAssignment.cs\obj\Debug\BooleanAssignment.cs.pdb
