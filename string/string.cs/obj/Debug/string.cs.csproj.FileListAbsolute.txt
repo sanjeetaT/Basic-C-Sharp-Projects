@@ -1,0 +1,7 @@
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\string\string.cs\bin\Debug\@string.cs.exe.config
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\string\string.cs\bin\Debug\@string.cs.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\string\string.cs\bin\Debug\@string.cs.pdb
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\string\string.cs\obj\Debug\string.cs.csproj.AssemblyReference.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\string\string.cs\obj\Debug\string.cs.csproj.CoreCompileInputs.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\string\string.cs\obj\Debug\@string.cs.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\string\string.cs\obj\Debug\@string.cs.pdb

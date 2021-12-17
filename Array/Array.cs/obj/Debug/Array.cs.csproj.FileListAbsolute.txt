@@ -1,0 +1,7 @@
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Array\Array.cs\bin\Debug\Array.cs.exe.config
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Array\Array.cs\bin\Debug\Array.cs.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Array\Array.cs\bin\Debug\Array.cs.pdb
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Array\Array.cs\obj\Debug\Array.cs.csproj.AssemblyReference.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Array\Array.cs\obj\Debug\Array.cs.csproj.CoreCompileInputs.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Array\Array.cs\obj\Debug\Array.cs.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Array\Array.cs\obj\Debug\Array.cs.pdb
