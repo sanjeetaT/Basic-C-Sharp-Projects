@@ -1,0 +1,7 @@
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppPartOneAssignment\ConsoleAppPartOneAssignment.cs\bin\Debug\ConsoleAppPartOneAssignment.cs.exe.config
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppPartOneAssignment\ConsoleAppPartOneAssignment.cs\bin\Debug\ConsoleAppPartOneAssignment.cs.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppPartOneAssignment\ConsoleAppPartOneAssignment.cs\bin\Debug\ConsoleAppPartOneAssignment.cs.pdb
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppPartOneAssignment\ConsoleAppPartOneAssignment.cs\obj\Debug\ConsoleAppPartOneAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppPartOneAssignment\ConsoleAppPartOneAssignment.cs\obj\Debug\ConsoleAppPartOneAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppPartOneAssignment\ConsoleAppPartOneAssignment.cs\obj\Debug\ConsoleAppPartOneAssignment.cs.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppPartOneAssignment\ConsoleAppPartOneAssignment.cs\obj\Debug\ConsoleAppPartOneAssignment.cs.pdb
