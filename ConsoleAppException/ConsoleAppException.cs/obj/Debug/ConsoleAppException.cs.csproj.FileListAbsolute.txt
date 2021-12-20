@@ -1,0 +1,7 @@
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppException\ConsoleAppException.cs\bin\Debug\ConsoleAppException.cs.exe.config
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppException\ConsoleAppException.cs\bin\Debug\ConsoleAppException.cs.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppException\ConsoleAppException.cs\bin\Debug\ConsoleAppException.cs.pdb
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppException\ConsoleAppException.cs\obj\Debug\ConsoleAppException.cs.csproj.AssemblyReference.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppException\ConsoleAppException.cs\obj\Debug\ConsoleAppException.cs.csproj.CoreCompileInputs.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppException\ConsoleAppException.cs\obj\Debug\ConsoleAppException.cs.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppException\ConsoleAppException.cs\obj\Debug\ConsoleAppException.cs.pdb
