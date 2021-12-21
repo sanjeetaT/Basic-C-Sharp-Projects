@@ -9,7 +9,7 @@ namespace ConsoleAppPartOneAssignment.cs
     class Program
     {
         static void Main(string[] args)
-        {
+        {   
             // Create one dimensional Array of string
             string[] names = { "Ale", "Bed", "Cali", "Joy", "Alex" };
             //Ask the user input some text

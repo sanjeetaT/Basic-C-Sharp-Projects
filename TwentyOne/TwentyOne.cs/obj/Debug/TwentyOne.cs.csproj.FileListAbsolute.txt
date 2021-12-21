@@ -1,0 +1,6 @@
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne.cs\bin\Debug\TwentyOne.cs.exe.config
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne.cs\bin\Debug\TwentyOne.cs.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne.cs\bin\Debug\TwentyOne.cs.pdb
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne.cs\obj\Debug\TwentyOne.cs.csproj.CoreCompileInputs.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne.cs\obj\Debug\TwentyOne.cs.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne.cs\obj\Debug\TwentyOne.cs.pdb

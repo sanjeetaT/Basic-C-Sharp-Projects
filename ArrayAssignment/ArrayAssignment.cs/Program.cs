@@ -32,10 +32,7 @@ namespace ArrayAssignment.cs
                 Console.WriteLine("Please pick the number between 0 to 5");
             }
               
-          
-
-
-             // create a list string 
+            // create a list string 
             List<string> stringList = new List<string>();
             stringList.Add("Hello");
             stringList.Add("World");
@@ -44,8 +41,8 @@ namespace ArrayAssignment.cs
             Console.WriteLine("Please choose the number between 0 to 2");
             int userNumber3 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(stringList[userNumber3]);
-            
             Console.ReadLine();
+
         }
     }
 }

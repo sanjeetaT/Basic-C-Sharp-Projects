@@ -17,7 +17,7 @@ namespace ConsoleAppStringAndIntegerAssignment.cs
             int user = Convert.ToInt32(Console.ReadLine());
 
             // A loop that iterate through each string
-          
+            // loop in try catch block
           
             try
             {
@@ -31,13 +31,14 @@ namespace ConsoleAppStringAndIntegerAssignment.cs
 
             }
 
-            //catch (DivideByZeroException ex)
-            //{
-            //    Console.WriteLine("Please don't divided by zero");
-            //}
+            catch (DivideByZeroException ex)
+            {
+                Console.WriteLine("Please don't divided by zero");
+            }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
+                
             }
             finally
             {
