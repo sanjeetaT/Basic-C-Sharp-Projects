@@ -1,0 +1,7 @@
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\bin\Debug\MainMethodSubmissionAssignment.exe.config
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\bin\Debug\MainMethodSubmissionAssignment.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\bin\Debug\MainMethodSubmissionAssignment.pdb
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\obj\Debug\MainMethodSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\obj\Debug\MainMethodSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\obj\Debug\MainMethodSubmissionAssignment.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\obj\Debug\MainMethodSubmissionAssignment.pdb

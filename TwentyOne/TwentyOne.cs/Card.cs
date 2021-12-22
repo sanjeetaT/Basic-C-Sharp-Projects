@@ -10,9 +10,10 @@ namespace TwentyOne.cs
     {   
         public Card()
         {
-            Suit = "spades";
+            Suit = "Spades";
             Face = "Two";
         }
+        // get set method with property
         public string Suit { get; set; }
         public string Face { get; set; }
     }
