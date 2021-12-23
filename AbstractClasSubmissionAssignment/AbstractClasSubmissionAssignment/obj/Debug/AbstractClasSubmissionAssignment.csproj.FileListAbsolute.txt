@@ -1,0 +1,7 @@
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClasSubmissionAssignment\AbstractClasSubmissionAssignment\bin\Debug\AbstractClasSubmissionAssignment.exe.config
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClasSubmissionAssignment\AbstractClasSubmissionAssignment\bin\Debug\AbstractClasSubmissionAssignment.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClasSubmissionAssignment\AbstractClasSubmissionAssignment\bin\Debug\AbstractClasSubmissionAssignment.pdb
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClasSubmissionAssignment\AbstractClasSubmissionAssignment\obj\Debug\AbstractClasSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClasSubmissionAssignment\AbstractClasSubmissionAssignment\obj\Debug\AbstractClasSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClasSubmissionAssignment\AbstractClasSubmissionAssignment\obj\Debug\AbstractClasSubmissionAssignment.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClasSubmissionAssignment\AbstractClasSubmissionAssignment\obj\Debug\AbstractClasSubmissionAssignment.pdb
