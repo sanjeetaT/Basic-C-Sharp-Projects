@@ -1,0 +1,7 @@
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndSubmitionAssignmentStep292\MethodAndSubmitionAssignmentStep292\bin\Debug\MethodAndSubmitionAssignmentStep292.exe.config
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndSubmitionAssignmentStep292\MethodAndSubmitionAssignmentStep292\bin\Debug\MethodAndSubmitionAssignmentStep292.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndSubmitionAssignmentStep292\MethodAndSubmitionAssignmentStep292\bin\Debug\MethodAndSubmitionAssignmentStep292.pdb
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndSubmitionAssignmentStep292\MethodAndSubmitionAssignmentStep292\obj\Debug\MethodAndSubmitionAssignmentStep292.csproj.AssemblyReference.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndSubmitionAssignmentStep292\MethodAndSubmitionAssignmentStep292\obj\Debug\MethodAndSubmitionAssignmentStep292.csproj.CoreCompileInputs.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndSubmitionAssignmentStep292\MethodAndSubmitionAssignmentStep292\obj\Debug\MethodAndSubmitionAssignmentStep292.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodAndSubmitionAssignmentStep292\MethodAndSubmitionAssignmentStep292\obj\Debug\MethodAndSubmitionAssignmentStep292.pdb

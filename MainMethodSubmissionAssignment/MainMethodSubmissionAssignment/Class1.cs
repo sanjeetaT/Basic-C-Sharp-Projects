@@ -8,6 +8,7 @@ namespace MainMethodSubmissionAssignment
 {
     class Class1
     {
+        // creatw a method that will take integer
         // AddNumber function 
         public int AddNumber(int x)
         {
@@ -25,11 +26,12 @@ namespace MainMethodSubmissionAssignment
         {
             return z * 4;
         }
+        // creatw a method that will take decimal
         public decimal divide(decimal a)
         {
             return a / 2;
         }
-
+        // creatw a method that will take string
         public int addNum(string b)
         {
             int c = Convert.ToInt32(b);

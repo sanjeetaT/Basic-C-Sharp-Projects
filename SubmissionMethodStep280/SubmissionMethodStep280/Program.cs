@@ -16,7 +16,8 @@ namespace SubmissionMethodStep280
             Console.WriteLine("Please enter one or two numbers one at a time");
 
             int x = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("enter a seond number of you wise");
+            // enter the second number if you wish
+            Console.WriteLine("Enter a seond number if you wish");
             try
             {
                 int y = Convert.ToInt32(Console.ReadLine());

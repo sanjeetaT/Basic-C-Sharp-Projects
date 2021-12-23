@@ -11,9 +11,10 @@ namespace MethodClassSubmissionStep281
         static void Main(string[] args)
         {
             Class1 obj1 = new Class1();
-            // ask the user put the another integer
+            // ask the user put the number
             Console.WriteLine("input a number");
             int a = Convert.ToInt32(Console.ReadLine());
+            // ask the user put the another  number
             Console.WriteLine("input another number");
             int b = Convert.ToInt32(Console.ReadLine());
 

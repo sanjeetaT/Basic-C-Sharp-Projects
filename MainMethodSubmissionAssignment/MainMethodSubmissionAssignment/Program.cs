@@ -18,13 +18,13 @@ namespace MainMethodSubmissionAssignment
             Console.WriteLine(obj1.AddNumber(x));
             Console.WriteLine(obj1.SubtractNumber(x));
             Console.WriteLine(obj1.multiply(x));
-            // ask the user what number they want to do math operation
+            // ask the user to put the decimal number
             Console.WriteLine("Please inter the  decimal number");
             decimal a = Convert.ToDecimal(Console.ReadLine());
             Class1 obj2 = new Class1();
             Console.WriteLine(obj2.divide(a));
 
-            // ask the user what number they want to do math operation
+            // ask the user put the another integer
             Console.WriteLine("Please inter the another integer");
             string b = Console.ReadLine();
             Class1 obj3 = new Class1();
