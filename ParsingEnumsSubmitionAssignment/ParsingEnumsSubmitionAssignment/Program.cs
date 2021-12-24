@@ -8,6 +8,7 @@ namespace ParsingEnumsSubmitionAssignment
 {
     class Program
     {
+        // Create the enum for day of the week
         enum WeekDays
         {
             Monday,
@@ -21,9 +22,10 @@ namespace ParsingEnumsSubmitionAssignment
         };
         static void Main(string[] args)
         {
-
+            // wrap up with try catch
             try
             {
+                // promt the user to put the current day
                 Console.WriteLine("Enter a day of the Week");
                 string input = Console.ReadLine();
                 WeekDays day = (WeekDays)Enum.Parse(typeof(WeekDays), input);
