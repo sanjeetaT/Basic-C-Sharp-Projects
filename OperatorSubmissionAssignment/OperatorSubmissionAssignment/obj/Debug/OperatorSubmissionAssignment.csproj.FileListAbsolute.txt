@@ -1,0 +1,7 @@
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorSubmissionAssignment\OperatorSubmissionAssignment\bin\Debug\OperatorSubmissionAssignment.exe.config
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorSubmissionAssignment\OperatorSubmissionAssignment\bin\Debug\OperatorSubmissionAssignment.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorSubmissionAssignment\OperatorSubmissionAssignment\bin\Debug\OperatorSubmissionAssignment.pdb
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorSubmissionAssignment\OperatorSubmissionAssignment\obj\Debug\OperatorSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorSubmissionAssignment\OperatorSubmissionAssignment\obj\Debug\OperatorSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorSubmissionAssignment\OperatorSubmissionAssignment\obj\Debug\OperatorSubmissionAssignment.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorSubmissionAssignment\OperatorSubmissionAssignment\obj\Debug\OperatorSubmissionAssignment.pdb
