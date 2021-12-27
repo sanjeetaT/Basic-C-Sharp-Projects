@@ -6,17 +6,19 @@ using System.Threading.Tasks;
 
 namespace TwentyOne.cs
 {
-    class Game
+    public abstract class Game
     {
-        public List<string> Players { get; set; }
+        public List<Player> Players { get; set; }
         public  string Name { get; set; }
-        public string Dealer { get; set; }
+        public Dictionary<Player, int> Bets { get; set; }
 
-        public void ListPlayers()
+        public abstract void Play(); 
+
+        public virtual void ListPlayers()
         {
-            foreach(string player in Players)
+            foreach(Player player in Players)
             {
-                Console.WriteLine();
+                Console.WriteLine(player.Name);
             }
         }
     }

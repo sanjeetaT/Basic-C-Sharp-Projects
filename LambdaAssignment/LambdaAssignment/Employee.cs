@@ -8,6 +8,7 @@ namespace LambdaAssignment
 {
     class Employee
     {
+        // Property
         public List<string> FirstName { get; set; }
         public List<string> LastName { get; set; }
 
