@@ -27,7 +27,7 @@ namespace TwentyOne
         };
         private static int[] GetAllPossibleHendValues(List<Card> Hand)
         {
-            int account = Hand.Cound(x => x.Face == Face.Ace);
+            int account = Hand.Count(x => x.Face == Face.Ace);
             int[] result = new int[account + 1];
             int value = Hand.Sum(x => _cardValue[x.Face]);
             result[0] = value;
@@ -61,12 +61,13 @@ namespace TwentyOne
     public static bool ShouldDealerStay(List<Card> Hand)
         {
             int[] possibleHandValues = GetAllPossibleHendValues(Hand);
-            foreach(int value in possibleHandValues)
+            foreach (int value in possibleHandValues)
             {
-                if(value > 16 && value < 22)
+                if (value > 16 && value < 22)
                 {
                     return true;
                 }
+            }
                 return false;
             }
             public static bool? CompareHands(List<Card> PlayerHand, List<Card> DealerHand)
@@ -84,4 +85,4 @@ namespace TwentyOne
             }
         }
     }
-}
+

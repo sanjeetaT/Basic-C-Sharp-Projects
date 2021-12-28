@@ -8,7 +8,11 @@ namespace MethodAndSubmitionAssignmentStep292
 {
     class Employee : Person //derived class from person
     {
-        public int ID { get; set; }
+        // Emplement the SayName() Method inside of the Employee class
+        public abstract void SayName()
+        {
+
+        }
        
     }
 }

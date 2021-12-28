@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    class  struct Card
-    {   
-        
+    public struct Card
+    {
+
+
         // get set method with property
         public Suit Suit { get; set; }
-        public string Face { get; set; }
+        public Face Face { get; set; }
 
         public override string ToString()
         {
@@ -19,27 +20,33 @@ namespace TwentyOne
             return string.Format("{0} of {1}", Face, Suit);
 
         }
-        
-    }
-    public enum Suit
-    {
-        Clubs,
-        Diamonds,
-        Hearts,
-        Spedes
     }
 
-    public enum Face
-    {
-        Two,
-        Three,
-        Four,
-        Five,
-        Six,
-        Seven,
-        Eight,
-        Nine,
-        Ten
 
-    };
-}
+        public enum Suit
+        {
+            Clubs,
+            Diamonds,
+            Hearts,
+            Spedes
+        }
+
+        public enum Face
+        {
+            Two,
+            Three,
+            Four,
+            Five,
+            Six,
+            Seven,
+            Eight,
+            Nine,
+            Ten,
+            Jack,
+            King,
+            Queen,
+            Ace
+
+        }
+    }
+

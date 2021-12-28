@@ -3,15 +3,24 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
-namespace TwentyOne.cs
+namespace TwentyOne
 {
     class Program
     {
         static void Main(string[] args)
         {
-           
+            //DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
+            //DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
+            //TimeSpan TimeAtGraduation = yearOfGraduation - yearOfBirth;
+           // string text = File.ReadAllText(@"C:\Users\Sanjeeta\Logs\log.txt");
+           // string text = "Here is some text.";
+            //File.WriteAllText(@"C:\Users\Sanjeeta\Logs\log.txt", text);
+
+
             Console.WriteLine("Welcome to the Grand Hotel and Casino.Let's start by telling me your name.");
+            
             string playerName = Console.ReadLine();
             Console.WriteLine("and how much money did you bring today?");
             int bank = Convert.ToInt32(Console.ReadLine());
@@ -115,4 +124,4 @@ namespace TwentyOne.cs
        
 
     }
-}
+

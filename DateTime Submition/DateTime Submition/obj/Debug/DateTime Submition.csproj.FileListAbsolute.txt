@@ -1,0 +1,7 @@
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime Submition\DateTime Submition\bin\Debug\DateTime Submition.exe.config
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime Submition\DateTime Submition\bin\Debug\DateTime Submition.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime Submition\DateTime Submition\bin\Debug\DateTime Submition.pdb
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime Submition\DateTime Submition\obj\Debug\DateTime Submition.csproj.AssemblyReference.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime Submition\DateTime Submition\obj\Debug\DateTime Submition.csproj.CoreCompileInputs.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime Submition\DateTime Submition\obj\Debug\DateTime Submition.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime Submition\DateTime Submition\obj\Debug\DateTime Submition.pdb

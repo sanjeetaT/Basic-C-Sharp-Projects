@@ -16,8 +16,9 @@ namespace StructAssignment
         };
         static void Main(string[] args)
         {
-            Number number;
-            number.Amount = 100.5m;//
+            Number number;// create an object
+            number.Amount = 100.5m;// Assign the Amount
+            // print the Amount to the console
             Console.WriteLine("decimal:" + number.Amount);
             Console.ReadLine();
         }

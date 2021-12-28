@@ -8,6 +8,7 @@ namespace AbstractClasSubmissionAssignment
 {
     class Employee : Person
     {
+        // Emplement the SayName method inside the Employee
         public override void SayName()
         {
             Console.WriteLine("Name: " + this.FirstName + " " + this.LastName);
