@@ -11,7 +11,9 @@ namespace ConstructionAssignment
         static void Main(string[] args)
         {
             Author author = new Author("Sanjeet");
-            Console.WriteLine(author.Name + " +" + author.Id);
+            Console.WriteLine(author.Name + " + " + author.Id);
+            const string name = "Alex";
+            var num1 = "some text";
             Console.ReadLine();
 
         }

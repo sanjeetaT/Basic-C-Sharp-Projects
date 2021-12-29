@@ -23,11 +23,22 @@ namespace TwentyOne
             //File.WriteAllText(@"C:\Users\Sanjeeta\Logs\log.txt", text);
 
 
-            Console.WriteLine("Welcome to the Grand Hotel and Casino.Let's start by telling me your name.");
+            Console.WriteLine("Welcome to the Grand Hotel and Casino.Let's start by telling me your name.", casinoName);
             
             string playerName = Console.ReadLine();
-            Console.WriteLine("and how much money did you bring today?");
-            int bank = Convert.ToInt32(Console.ReadLine());
+
+            bool validAnswer = false;
+            int bank = 0;
+            while(!validAnswer)
+            {
+                Console.WriteLine("And how much money did you bring today?");
+                validAnswer = int.TryParse(Console.ReadLine(), out bank);
+                if (!validAnswer) Console.WriteLine("Please enter digits only, no decimal.");
+            }
+
+            //Console.WriteLine("and how much money did you bring today?");
+            //int bank = Convert.ToInt32(Console.ReadLine());
+
             Console.WriteLine("Hello, {0}. would you like to join a game of 21 roght now ?", playerName);
             string answer = Console.ReadLine().ToLower();
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
