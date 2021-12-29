@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
+using Casino;
+using Casino.TwentyOne;
 
 namespace TwentyOne
 {
@@ -11,6 +9,12 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            const string casinoName = "Grand Hotel and Casino";
+            //Guid identifier = Guid.NewGuid();
+
+
+            //var newDictionary  = new Dictionary <String, string>();
+            //var newPlayer = new Player("Sanjeeta"); 
             //DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
             //DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
             //TimeSpan TimeAtGraduation = yearOfGraduation - yearOfBirth;
@@ -29,6 +33,12 @@ namespace TwentyOne
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne.cs\logs\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                    
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivePlaying = true;

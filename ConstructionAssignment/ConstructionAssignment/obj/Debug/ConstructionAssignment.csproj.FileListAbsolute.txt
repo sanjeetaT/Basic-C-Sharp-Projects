@@ -1,0 +1,7 @@
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructionAssignment\ConstructionAssignment\bin\Debug\ConstructionAssignment.exe.config
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructionAssignment\ConstructionAssignment\bin\Debug\ConstructionAssignment.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructionAssignment\ConstructionAssignment\bin\Debug\ConstructionAssignment.pdb
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructionAssignment\ConstructionAssignment\obj\Debug\ConstructionAssignment.csproj.AssemblyReference.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructionAssignment\ConstructionAssignment\obj\Debug\ConstructionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructionAssignment\ConstructionAssignment\obj\Debug\ConstructionAssignment.exe
+C:\Users\Dridh\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructionAssignment\ConstructionAssignment\obj\Debug\ConstructionAssignment.pdb
