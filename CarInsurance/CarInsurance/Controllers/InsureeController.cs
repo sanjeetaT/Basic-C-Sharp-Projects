@@ -47,18 +47,77 @@ namespace CarInsurance.Controllers
         }
 
         // POST: Insuree/Create
+
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Table table)
         {
+            var name = table.DateOfBirth;
+            var user = DateTime.Today.Year - name.Year;
+            //a
+            table.Quote = 50.0m;
+            //b
+            if (DateTime.Now.Year - table.DateOfBirth.Year <= 18)
+            {
+                table.Quote += 100m;
+            }
+            //c
+            if (user >= 19 || user <= 25)
+            {
+                table.Quote += 50m;
+            }
+            //d
+            if (DateTime.Now.Year - table.DateOfBirth.Year > 25)
+            {
+                table.Quote += 25m;
+            }
+            //e
+            if (table.CarYear < 2000)
+            {
+                table.Quote += 25m;
+            }
+            //f
+            if (table.CarYear > 2015)
+            {
+                table.Quote += 25m;
+            }
+            //g
+            if (table.CarMake == "Porsche")
+            {
+                table.Quote += 25m;
+            }
+            //h
+            if (table.CarMake == "Porsche" && table.CarModel == "911 Carrera")
+            {
+                table.Quote += 25m;
+            }
+            //i
+            for (int i = 0; i < table.SpeedingTickets; i++)
+            {
+                table.Quote += 10m;
+            }
+            //j
+            if (table.DUI == true)
+            {
+                table.Quote *= 1.25m;
+            }
+            //k
+            if (table.CoverageType == true)
+            {
+                table.Quote *= 1.50m;
+            }
+
+
+
+
             if (ModelState.IsValid)
             {
-                table.Quote = CalculateQuote(table);
+               
                 db.Tables.Add(table);
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("Admin");
             }
 
             return View(table);
@@ -79,68 +138,7 @@ namespace CarInsurance.Controllers
             return View(table);
         }
 
-        // Calculate quote method
-        public decimal CalculateQuote(Table table)
-        {
-            //a
-            table.Quote = 50.0m;
-            //b
-            if(DateTime.Now.Year - table.DateOfBirth.Year < 18)
-            {
-                table.Quote += 100m;
-            }
-            //c
-            if(DateTime.Now.Year - table.DateOfBirth.Year  > 18 && DateTime.Now.Year - table.DateOfBirth.Year < 25)
-                    {
-                table.Quote += 25m;
-            }
-            //d
-            if (DateTime.Now.Year - table.DateOfBirth.Year > 25)
-            {
-                table.Quote += 25m;
-            }
-            //e
-            if( table.CarYear < 2000)
-            {
-                table.Quote += 25m;
-            }
-            //f
-            if (table.CarYear > 2015)
-            {
-                table.Quote += 25m;
-            }
-            //g
-            if ( table.CarMake == "Porsche")
-            {
-                table.Quote += 25m;
-            }
-            //h
-            if (table.CarMake == "Porsche" && table.CarModel == "911 Carrera")
-            {
-                table.Quote += 25m;
-            }
-            //i
-            for(int i = 0; i < table.SpeedingTickets; i++)
-            {
-                table.Quote += 10m;
-            }
-            //j
-            if(table.DUI)
-            {
-                table.Quote += 25m;
-            }
-            //k
-            if(table.CoverageType)
-            {
-                table.Quote += 50m;
-            }
-
-
-
-
-
-            return Convert.ToDecimal(table.Quote);
-        }
+     
 
         // POST: Insuree/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
@@ -149,7 +147,8 @@ namespace CarInsurance.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Edit([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Table table)
         {
-            if (ModelState.IsValid)
+          
+           if (ModelState.IsValid)
             {
                 db.Entry(table).State = EntityState.Modified;
                 db.SaveChanges();
