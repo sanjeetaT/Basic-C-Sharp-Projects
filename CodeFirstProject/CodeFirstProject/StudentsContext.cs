@@ -10,7 +10,7 @@ namespace CodeFirstProject
     
         public class StudentContext: DbContext
         {
-            public DbSet<Student> students { get; set; }
+            public DbSet<Student> Students{ get; set; }
             
         }
     

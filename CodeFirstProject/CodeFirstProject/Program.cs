@@ -14,19 +14,19 @@ namespace CodeFirstProject
             using (var db = new StudentContext())
             {
                 // Create and save a new Blog
-                Console.Write("Enter a name for a new Blog: ");
+                Console.Write("Enter a name for a new Student: ");
                 var name = Console.ReadLine();
 
-                var blog = new Student { Name = name };
-                db.students.Add(blog);
+                var student = new Student { Name = name };
+                db.Students.Add(student);
                 db.SaveChanges();
 
-                // Display all Blogs from the database
-                var query = from b in db.students
+                // Display all Studentss from the database
+                var query = from b in db.Students
                             orderby b.Name
                             select b;
 
-                Console.WriteLine("All blogs in the database:");
+                Console.WriteLine("All Students in the database:");
                 foreach (var item in query)
                 {
                     Console.WriteLine(item.Name);
